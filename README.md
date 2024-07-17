@@ -18,41 +18,43 @@ Welcome to the Netflix Clone Landing Page project! This repository contains the 
 ## Features 
 
 - **Responsive Design:**
-- 
+  
 👉The layout adjusts seamlessly across various screen sizes, providing a consistent user experience on desktops, tablets, and mobile devices.
 
 - **Interactive UI:**
-- 
+ 
 👉Smooth hover effects, transitions, and animations enhance the user experience.
 
 - **Hero Section:**
-- 
+ 
 👉A prominent hero section featuring a background image or video, capturing the essence of Netflix's immersive design.
 
 - **Navigation Bar:**
-- 
+  
 👉A sleek, fixed navigation bar that includes the Netflix logo, navigation links, and a sign-in button.
 
 - **Content Sections:**
-- 
+ 
 👉Organized content sections showcasing featured shows, trending content, and personalized recommendations.
 
 - **Footer:**
-- 
+ 
 👉A well-structured footer containing links to various informational pages and social media icons.
 
 ## Technologies Used
 
 - **HTML5:** Structuring the content and layout of the landing page.
-- 
+  
 - **CSS3:** Styling the components, including layout, colors, typography, and animations.
-- 
+  
 - **JavaScript:** Adding interactivity and enhancing user experience with dynamic elements.
 
 1. ## Clone the repository:
    
    👉git clone https://github.com/your-username/netflix-clone-landing-page.git
+   
    👉 Github Streaming On Here : https://kathirviswa.github.io/Netflix-clone/
+   
    📺 Live Streaming On Here :https://netflixclones.netlify.app/
 
 ## Navigate to the project directory**
