@@ -52,7 +52,7 @@ Welcome to the Netflix Clone Landing Page project! This repository contains the 
 1. ## Clone the repository:
    
    👉git clone https://github.com/your-username/netflix-clone-landing-page.git
-   👉 Git Streaming On Here : 
+   👉 Github Streaming On Here : https://kathirviswa.github.io/Netflix-clone/
    📺 Live Streaming On Here :https://netflixclones.netlify.app/
 
 ## Navigate to the project directory**
