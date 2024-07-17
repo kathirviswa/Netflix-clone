@@ -55,6 +55,8 @@ Welcome to the Netflix Clone Landing Page project! This repository contains the 
    
    👉 Github Streaming On Here : https://kathirviswa.github.io/Netflix-clone/
    
+   👉Versal-app Streaming On Here : https://netflix-clone-mu-nine-11.vercel.app/
+   
    📺 Live Streaming On Here : https://netflixclones.netlify.app/
 
 ## Navigate to the project directory**
